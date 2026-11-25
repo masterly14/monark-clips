@@ -1,0 +1,219 @@
+[
+  {
+    "text": "Psst.",
+    "startMs": 50,
+    "endMs": 1160,
+    "timestampMs": 640,
+    "confidence": 0.460193
+  },
+  {
+    "text": " Got",
+    "startMs": 1160,
+    "endMs": 1260,
+    "timestampMs": 1400,
+    "confidence": 0.643587
+  },
+  {
+    "text": " something",
+    "startMs": 1260,
+    "endMs": 1620,
+    "timestampMs": 1700,
+    "confidence": 0.987862
+  },
+  {
+    "text": " to",
+    "startMs": 1620,
+    "endMs": 1700,
+    "timestampMs": 1940,
+    "confidence": 0.998605
+  },
+  {
+    "text": " sell?",
+    "startMs": 1700,
+    "endMs": 2000,
+    "timestampMs": 2160,
+    "confidence": 0.998542
+  },
+  {
+    "text": " Courses,",
+    "startMs": 2000,
+    "endMs": 3080,
+    "timestampMs": 2840,
+    "confidence": 0.489069
+  },
+  {
+    "text": " e-books,",
+    "startMs": 3080,
+    "endMs": 3570,
+    "timestampMs": 3420,
+    "confidence": 0.870622
+  },
+  {
+    "text": " apps?",
+    "startMs": 3570,
+    "endMs": 4000,
+    "timestampMs": 4200,
+    "confidence": 0.986873
+  },
+  {
+    "text": " Pockets",
+    "startMs": 4000,
+    "endMs": 4560,
+    "timestampMs": 4680,
+    "confidence": 0.646285
+  },
+  {
+    "text": " Flow",
+    "startMs": 4560,
+    "endMs": 4890,
+    "timestampMs": 5080,
+    "confidence": 0.643759
+  },
+  {
+    "text": " turns",
+    "startMs": 4890,
+    "endMs": 5280,
+    "timestampMs": 5380,
+    "confidence": 0.982844
+  },
+  {
+    "text": " it",
+    "startMs": 5280,
+    "endMs": 5440,
+    "timestampMs": 5580,
+    "confidence": 0.996827
+  },
+  {
+    "text": " into",
+    "startMs": 5440,
+    "endMs": 5760,
+    "timestampMs": 5760,
+    "confidence": 0.989878
+  },
+  {
+    "text": " a",
+    "startMs": 5760,
+    "endMs": 5860,
+    "timestampMs": 6020,
+    "confidence": 0.994503
+  },
+  {
+    "text": " store",
+    "startMs": 5860,
+    "endMs": 6240,
+    "timestampMs": 6240,
+    "confidence": 0.969943
+  },
+  {
+    "text": " in",
+    "startMs": 6240,
+    "endMs": 6400,
+    "timestampMs": 6560,
+    "confidence": 0.9782
+  },
+  {
+    "text": " minutes.",
+    "startMs": 6400,
+    "endMs": 7000,
+    "timestampMs": 6920,
+    "confidence": 0.989136
+  },
+  {
+    "text": " Checkout,",
+    "startMs": 7000,
+    "endMs": 7570,
+    "timestampMs": 7600,
+    "confidence": 0.991965
+  },
+  {
+    "text": " subscriptions,",
+    "startMs": 7570,
+    "endMs": 8440,
+    "timestampMs": 8460,
+    "confidence": 0.99138
+  },
+  {
+    "text": " upsells,",
+    "startMs": 8440,
+    "endMs": 9000,
+    "timestampMs": 8900,
+    "confidence": 0.988661
+  },
+  {
+    "text": " taxes,",
+    "startMs": 9000,
+    "endMs": 9400,
+    "timestampMs": 9620,
+    "confidence": 0.968821
+  },
+  {
+    "text": " payouts?",
+    "startMs": 9400,
+    "endMs": 10000,
+    "timestampMs": 10040,
+    "confidence": 0.99097
+  },
+  {
+    "text": " Handled.",
+    "startMs": 10000,
+    "endMs": 11000,
+    "timestampMs": 11000,
+    "confidence": 0.5861
+  },
+  {
+    "text": " You",
+    "startMs": 11000,
+    "endMs": 11250,
+    "timestampMs": 11780,
+    "confidence": 0.949668
+  },
+  {
+    "text": " create.",
+    "startMs": 11250,
+    "endMs": 12000,
+    "timestampMs": 12160,
+    "confidence": 0.692389
+  },
+  {
+    "text": " We",
+    "startMs": 12000,
+    "endMs": 12270,
+    "timestampMs": 12900,
+    "confidence": 0.980352
+  },
+  {
+    "text": " handle",
+    "startMs": 12270,
+    "endMs": 12880,
+    "timestampMs": 13260,
+    "confidence": 0.935035
+  },
+  {
+    "text": " the",
+    "startMs": 12880,
+    "endMs": 13240,
+    "timestampMs": 13500,
+    "confidence": 0.992532
+  },
+  {
+    "text": " flow.",
+    "startMs": 13240,
+    "endMs": 14000,
+    "timestampMs": 13700,
+    "confidence": 0.86136
+  },
+  {
+    "text": " (signal",
+    "startMs": 14000,
+    "endMs": 14450,
+    "timestampMs": 14860,
+    "confidence": 0.998916
+  },
+  {
+    "text": " beeps)",
+    "startMs": 14450,
+    "endMs": 14880,
+    "timestampMs": 14860,
+    "confidence": 0.99968
+  }
+]

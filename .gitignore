@@ -1,0 +1,30 @@
+# Dependencias (se reinstalan con `npm install`)
+node_modules/
+
+# Credenciales: cada persona crea su .env a partir de .env.example
+.env
+.env.*
+!.env.example
+
+# Modelo y binarios de Whisper (~1,5 GB): scripts/transcribe.mjs los descarga solo
+.whisper/
+
+# Material de clientes y videos de terceros: no van al repo público.
+# Se comparten por el Drive del equipo (ver public/clips/README.md).
+public/clips/*
+!public/clips/README.md
+ref/*.mp4
+
+# Temporales y renders
+.tmp/
+out/
+public/sfx/_preview.*
+*.log
+
+# Ajustes personales de Claude Code (la skill compartida sí se versiona)
+.claude/settings.local.json
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store

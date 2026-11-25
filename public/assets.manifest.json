@@ -1,0 +1,304 @@
+{
+  "_info": "Inventario de assets de Monark Motion. Rutas relativas a public/ (usar con staticFile). file = original (solo lectura). ht = halftone con papel blanco y alfa de silueta (usar sobre cualquier fondo). ink = solo puntos negros, transparente (duotono: el fondo se ve a través; usar en tarjeta final). bbox = caja del contenido en el original 1344x752. Regenerar: node scripts/build-assets.mjs [nombre ...]",
+  "character": {
+    "source": "Higgsfield, 2026-11-25. Personaje anfitrión Monark (suéter con parche de mariposa origami).",
+    "size": [
+      1344,
+      752
+    ],
+    "expressions": {
+      "neutral": {
+        "file": "character/raw/neutral.png",
+        "bbox": [
+          356,
+          16,
+          634,
+          736
+        ],
+        "use": "reposo, inicio de beat sin emoción",
+        "ht": "character/ht/neutral.png",
+        "ink": "character/ht/neutral-ink.png"
+      },
+      "sonrisa": {
+        "file": "character/raw/sonrisa.png",
+        "bbox": [
+          352,
+          16,
+          638,
+          736
+        ],
+        "use": "beneficios, logros",
+        "ht": "character/ht/sonrisa.png",
+        "ink": "character/ht/sonrisa-ink.png"
+      },
+      "habla": {
+        "file": "character/raw/habla.png",
+        "bbox": [
+          354,
+          16,
+          638,
+          736
+        ],
+        "use": "alternar con neutral/sonrisa mientras hay locución",
+        "ht": "character/ht/habla.png",
+        "ink": "character/ht/habla-ink.png"
+      },
+      "guino": {
+        "file": "character/raw/guino.png",
+        "bbox": [
+          346,
+          16,
+          638,
+          736
+        ],
+        "use": "remates, tarjeta final, KPI",
+        "ht": "character/ht/guino.png",
+        "ink": "character/ht/guino-ink.png"
+      },
+      "preocupado": {
+        "file": "character/raw/preocupado.png",
+        "bbox": [
+          358,
+          16,
+          630,
+          736
+        ],
+        "use": "acto Problema (ya trae gota de sudor en la sien)",
+        "ht": "character/ht/preocupado.png",
+        "ink": "character/ht/preocupado-ink.png"
+      },
+      "feliz-ojos-cerrados": {
+        "file": "character/raw/feliz-ojos-cerrados.png",
+        "bbox": [
+          354,
+          16,
+          636,
+          736
+        ],
+        "use": "resolución, '¡Listo!', sello",
+        "ht": "character/ht/feliz-ojos-cerrados.png",
+        "ink": "character/ht/feliz-ojos-cerrados-ink.png"
+      },
+      "sorpresa": {
+        "file": "character/raw/sorpresa.png",
+        "bbox": [
+          350,
+          10,
+          636,
+          742
+        ],
+        "use": "cifras, revelaciones, giro",
+        "ht": "character/ht/sorpresa.png",
+        "ink": "character/ht/sorpresa-ink.png"
+      }
+    },
+    "poses": {
+      "peek-derecha": {
+        "file": "character/raw/peek-derecha.png",
+        "bbox": [
+          786,
+          10,
+          558,
+          742
+        ],
+        "use": "entrada del gancho asomándose por el borde derecho",
+        "ht": "character/ht/peek-derecha.png",
+        "ink": "character/ht/peek-derecha-ink.png"
+      },
+      "peek-abajo": {
+        "file": "character/raw/peek-abajo.png",
+        "bbox": [
+          316,
+          194,
+          738,
+          524
+        ],
+        "use": "tarjeta final, asomado detrás del wordmark",
+        "ht": "character/ht/peek-abajo.png",
+        "ink": "character/ht/peek-abajo-ink.png"
+      },
+      "badge": {
+        "file": "character/raw/badge.png",
+        "bbox": [
+          322,
+          0,
+          698,
+          752
+        ],
+        "use": "sticker circular arriba a la derecha (recortar a círculo centrado en la cara)",
+        "ht": "character/ht/badge.png",
+        "ink": "character/ht/badge-ink.png"
+      },
+      "mira-titular": {
+        "file": "character/raw/mira-titular.png",
+        "bbox": [
+          356,
+          10,
+          634,
+          742
+        ],
+        "use": "mira arriba a la izquierda, hacia el titular",
+        "ht": "character/ht/mira-titular.png",
+        "ink": "character/ht/mira-titular-ink.png"
+      },
+      "mira-abajo-derecha": {
+        "file": "character/raw/mira-abajo-derecha.png",
+        "bbox": [
+          356,
+          12,
+          644,
+          740
+        ],
+        "use": "mira abajo a la derecha (para mirar a la izquierda, voltear en X; el parche queda invertido)",
+        "ht": "character/ht/mira-abajo-derecha.png",
+        "ink": "character/ht/mira-abajo-derecha-ink.png"
+      },
+      "badge-circle": {
+        "ht": "character/ht/badge-circle.png",
+        "size": [
+          512,
+          512
+        ],
+        "use": "sticker circular listo (papel blanco, recortado en círculo); poner anillo y punto de estado en código"
+      }
+    },
+    "reference": {
+      "turnaround": {
+        "file": "character/raw/turnaround.png",
+        "use": "solo referencia de consistencia (frente, 3/4, perfil, espalda); no usar en video"
+      },
+      "referencia-aprobada": {
+        "file": "character/raw/_referencia-aprobada.webp",
+        "use": "primera imagen aprobada, usada para la curva de halftone"
+      }
+    }
+  },
+  "props": {
+    "cabana": {
+      "file": "props/raw/cabana.png",
+      "bbox": [
+        230,
+        50,
+        908,
+        680
+      ],
+      "use": "miniatura de propiedad: cabaña",
+      "ht": "props/ht/cabana.png",
+      "ink": "props/ht/cabana-ink.png"
+    },
+    "apartamento": {
+      "file": "props/raw/apartamento.png",
+      "bbox": [
+        224,
+        42,
+        884,
+        688
+      ],
+      "use": "miniatura de propiedad: apartamento",
+      "ht": "props/ht/apartamento.png",
+      "ink": "props/ht/apartamento-ink.png"
+    },
+    "glamping": {
+      "file": "props/raw/glamping.png",
+      "bbox": [
+        170,
+        58,
+        1030,
+        640
+      ],
+      "use": "miniatura de propiedad: glamping",
+      "ht": "props/ht/glamping.png",
+      "ink": "props/ht/glamping-ink.png"
+    },
+    "llave": {
+      "file": "props/raw/llave.png",
+      "bbox": [
+        134,
+        56,
+        1084,
+        594
+      ],
+      "use": "check-in, acceso, llegada",
+      "ht": "props/ht/llave.png",
+      "ink": "props/ht/llave-ink.png"
+    },
+    "calendario": {
+      "file": "props/raw/calendario.png",
+      "bbox": [
+        206,
+        44,
+        922,
+        662
+      ],
+      "use": "reservas, disponibilidad, sincronización",
+      "ht": "props/ht/calendario.png",
+      "ink": "props/ht/calendario-ink.png"
+    },
+    "limpieza": {
+      "file": "props/raw/limpieza.png",
+      "bbox": [
+        128,
+        50,
+        1066,
+        646
+      ],
+      "use": "limpieza, housekeeping, tareas",
+      "ht": "props/ht/limpieza.png",
+      "ink": "props/ht/limpieza-ink.png"
+    },
+    "huesped": {
+      "file": "props/raw/huesped.png",
+      "bbox": [
+        420,
+        78,
+        432,
+        628
+      ],
+      "use": "pictograma de persona para KPI con multitud",
+      "ht": "props/ht/huesped.png",
+      "ink": "props/ht/huesped-ink.png"
+    },
+    "maleta": {
+      "file": "props/raw/maleta.png",
+      "bbox": [
+        450,
+        32,
+        448,
+        682
+      ],
+      "use": "viaje, llegada, huéspedes",
+      "ht": "props/ht/maleta.png",
+      "ink": "props/ht/maleta-ink.png"
+    }
+  },
+  "brand": {
+    "monark-logo": {
+      "file": "brand/monark-logo.png",
+      "use": "wordmark completo (transparente)"
+    },
+    "monark-mark": {
+      "file": "brand/monark-mark.png",
+      "use": "solo mariposa (transparente)"
+    },
+    "airbnb": {
+      "file": "brand/airbnb.png",
+      "use": "ícono de app (recortar a cuadrado redondeado)"
+    },
+    "booking": {
+      "file": "brand/booking.png",
+      "use": "ícono de app (zoom 1.14 para quitar margen blanco)"
+    },
+    "whatsapp": {
+      "file": "brand/whatsapp.png",
+      "use": "ícono de app (zoom 1.28 para quitar margen blanco)"
+    },
+    "zapata-logo": {
+      "file": "brand/zapata-logo.png",
+      "use": "logo de cliente Zapata Hospitality"
+    }
+  },
+  "missing": [
+    "props/globo (prompt #20): no se generó; necesario solo para el recurso A10 Globo",
+    "music/: cama musical"
+  ]
+}

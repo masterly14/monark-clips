@@ -1,0 +1,226 @@
+[
+  {
+    "text": "maravilloso",
+    "startMs": 60,
+    "endMs": 3000,
+    "timestampMs": 420,
+    "confidence": 0.0689067
+  },
+  {
+    "text": " y",
+    "startMs": 3000,
+    "endMs": 3000,
+    "timestampMs": 1100,
+    "confidence": 0.287696
+  },
+  {
+    "text": " buenísimo",
+    "startMs": 3000,
+    "endMs": 3050,
+    "timestampMs": 1320,
+    "confidence": 0.737983
+  },
+  {
+    "text": " entonces",
+    "startMs": 3050,
+    "endMs": 3090,
+    "timestampMs": 1760,
+    "confidence": 0.237044
+  },
+  {
+    "text": " no",
+    "startMs": 3090,
+    "endMs": 3100,
+    "timestampMs": 1900,
+    "confidence": 0.793439
+  },
+  {
+    "text": " hay",
+    "startMs": 3100,
+    "endMs": 3110,
+    "timestampMs": 1980,
+    "confidence": 0.990166
+  },
+  {
+    "text": " que",
+    "startMs": 3110,
+    "endMs": 3120,
+    "timestampMs": 2060,
+    "confidence": 0.943652
+  },
+  {
+    "text": " hacer",
+    "startMs": 3120,
+    "endMs": 3140,
+    "timestampMs": 2220,
+    "confidence": 0.979706
+  },
+  {
+    "text": " ese",
+    "startMs": 3140,
+    "endMs": 3180,
+    "timestampMs": 2360,
+    "confidence": 0.866831
+  },
+  {
+    "text": " proceso",
+    "startMs": 3180,
+    "endMs": 3220,
+    "timestampMs": 2720,
+    "confidence": 0.990836
+  },
+  {
+    "text": " está",
+    "startMs": 3220,
+    "endMs": 3260,
+    "timestampMs": 3320,
+    "confidence": 0.0737557
+  },
+  {
+    "text": " buenísimo",
+    "startMs": 3260,
+    "endMs": 4040,
+    "timestampMs": 3740,
+    "confidence": 0.875548
+  },
+  {
+    "text": " me",
+    "startMs": 4040,
+    "endMs": 4160,
+    "timestampMs": 4320,
+    "confidence": 0.836695
+  },
+  {
+    "text": " encanta",
+    "startMs": 4160,
+    "endMs": 4520,
+    "timestampMs": 4540,
+    "confidence": 0.764476
+  },
+  {
+    "text": " yo",
+    "startMs": 4520,
+    "endMs": 4600,
+    "timestampMs": 4860,
+    "confidence": 0.81762
+  },
+  {
+    "text": " sabía",
+    "startMs": 4600,
+    "endMs": 5040,
+    "timestampMs": 5080,
+    "confidence": 0.573689
+  },
+  {
+    "text": " no",
+    "startMs": 5040,
+    "endMs": 5140,
+    "timestampMs": 5520,
+    "confidence": 0.936565
+  },
+  {
+    "text": " sé",
+    "startMs": 5140,
+    "endMs": 5290,
+    "timestampMs": 5620,
+    "confidence": 0.862125
+  },
+  {
+    "text": " me",
+    "startMs": 5290,
+    "endMs": 5390,
+    "timestampMs": 5740,
+    "confidence": 0.958835
+  },
+  {
+    "text": " dio",
+    "startMs": 5390,
+    "endMs": 5540,
+    "timestampMs": 5800,
+    "confidence": 0.75395
+  },
+  {
+    "text": " una",
+    "startMs": 5540,
+    "endMs": 5690,
+    "timestampMs": 6000,
+    "confidence": 0.974572
+  },
+  {
+    "text": " intuición",
+    "startMs": 5690,
+    "endMs": 6190,
+    "timestampMs": 6140,
+    "confidence": 0.966582
+  },
+  {
+    "text": " de",
+    "startMs": 6190,
+    "endMs": 6290,
+    "timestampMs": 6460,
+    "confidence": 0.97957
+  },
+  {
+    "text": " que",
+    "startMs": 6290,
+    "endMs": 6460,
+    "timestampMs": 6580,
+    "confidence": 0.995235
+  },
+  {
+    "text": " ustedes",
+    "startMs": 6460,
+    "endMs": 6830,
+    "timestampMs": 6800,
+    "confidence": 0.950545
+  },
+  {
+    "text": " sí",
+    "startMs": 6830,
+    "endMs": 6940,
+    "timestampMs": 7000,
+    "confidence": 0.411334
+  },
+  {
+    "text": " la",
+    "startMs": 6940,
+    "endMs": 7040,
+    "timestampMs": 7160,
+    "confidence": 0.875077
+  },
+  {
+    "text": " estaban",
+    "startMs": 7040,
+    "endMs": 7390,
+    "timestampMs": 7340,
+    "confidence": 0.991429
+  },
+  {
+    "text": " rompiendo",
+    "startMs": 7390,
+    "endMs": 7900,
+    "timestampMs": 7620,
+    "confidence": 0.997803
+  },
+  {
+    "text": " con",
+    "startMs": 7900,
+    "endMs": 7990,
+    "timestampMs": 8060,
+    "confidence": 0.97491
+  },
+  {
+    "text": " el",
+    "startMs": 7990,
+    "endMs": 8090,
+    "timestampMs": 8220,
+    "confidence": 0.97387
+  },
+  {
+    "text": " tema",
+    "startMs": 8090,
+    "endMs": 8320,
+    "timestampMs": 8300,
+    "confidence": 0.947865
+  }
+]

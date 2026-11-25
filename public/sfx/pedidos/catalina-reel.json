@@ -1,0 +1,18 @@
+{
+  "pieza": "catalina-reel",
+  "usa": ["pop", "tick", "clic", "confirmacion", "alerta", "notificacion", "conteo", "swipe", "whoosh", "riser", "golpe", "impacto", "destello", "logo"],
+  "sonidos": {
+    "sobre-enviado": {
+      "categoria": "objeto",
+      "descripcion": "Hoja de papel que se dobla y se desliza dentro de un sobre, rematada por un deslizamiento suave y corto hacia afuera; seco, cálido y limpio, sin crujidos fuertes.",
+      "uso": "Objeto motivo 'reporte de fin de mes': el reporte a propietarios se dobla, entra al sobre y sale enviado solo. Solo en el cambio de estado del motivo.",
+      "ritmo": "Acento del motivo: máximo 2 veces por pieza (gancho y pago). Va antes de la confirmación (≥ 120 ms).",
+      "prompt": "A soft dry sheet of paper folding and sliding into an envelope, followed by a short gentle slide away, clean and close, premium interface feel",
+      "duracion": 0.9,
+      "influencia": 0.55,
+      "volumen": 0.32,
+      "ancla": "inicio",
+      "variantes": 2
+    }
+  }
+}

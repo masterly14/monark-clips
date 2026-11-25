@@ -1,0 +1,66 @@
+{
+  "cabana": {
+    "x": 206,
+    "y": 26,
+    "w": 956,
+    "h": 726,
+    "paper": "props/ht/cabana.png",
+    "ink": "props/ht/cabana-ink.png"
+  },
+  "apartamento": {
+    "x": 200,
+    "y": 18,
+    "w": 932,
+    "h": 734,
+    "paper": "props/ht/apartamento.png",
+    "ink": "props/ht/apartamento-ink.png"
+  },
+  "glamping": {
+    "x": 146,
+    "y": 34,
+    "w": 1078,
+    "h": 688,
+    "paper": "props/ht/glamping.png",
+    "ink": "props/ht/glamping-ink.png"
+  },
+  "llave": {
+    "x": 110,
+    "y": 32,
+    "w": 1132,
+    "h": 642,
+    "paper": "props/ht/llave.png",
+    "ink": "props/ht/llave-ink.png"
+  },
+  "calendario": {
+    "x": 182,
+    "y": 20,
+    "w": 970,
+    "h": 710,
+    "paper": "props/ht/calendario.png",
+    "ink": "props/ht/calendario-ink.png"
+  },
+  "limpieza": {
+    "x": 104,
+    "y": 26,
+    "w": 1114,
+    "h": 694,
+    "paper": "props/ht/limpieza.png",
+    "ink": "props/ht/limpieza-ink.png"
+  },
+  "huesped": {
+    "x": 396,
+    "y": 54,
+    "w": 480,
+    "h": 676,
+    "paper": "props/ht/huesped.png",
+    "ink": "props/ht/huesped-ink.png"
+  },
+  "maleta": {
+    "x": 426,
+    "y": 8,
+    "w": 496,
+    "h": 730,
+    "paper": "props/ht/maleta.png",
+    "ink": "props/ht/maleta-ink.png"
+  }
+}

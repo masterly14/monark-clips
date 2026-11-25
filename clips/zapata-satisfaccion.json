@@ -1,0 +1,26 @@
+{
+  "id": "zapata-satisfaccion",
+
+  "kicker": "Testimonio",
+  "headlineLead": "+17% de",
+  "headlineAccent": "satisfacción",
+  "speakerRole": "Host Community",
+  "speakerName": "Zapata Hospitality",
+  "footerLabel": "Cliente Monark",
+
+  "clientLogo": "brand/zapata-logo.png",
+  "clientLogoWidth": 280,
+
+  "video": "clips/zapata-raw.mp4",
+  "sourceSize": {"w": 1488, "h": 808},
+  "crop": {"x": 20, "y": 420, "w": 672, "h": 335},
+  "trimStartSec": 13.95,
+  "trimEndSec": 44.8,
+
+  "captionsFile": "clips/zapata.captions.json",
+  "showCaptions": true,
+  "captionFixes": {"WESPED.": "huésped.", "Hablo": "Habló"},
+
+  "nameInSec": 0.8,
+  "outroSec": 2.2
+}

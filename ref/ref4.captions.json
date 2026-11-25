@@ -1,0 +1,604 @@
+[
+  {
+    "text": "\"You",
+    "startMs": 120,
+    "endMs": 720,
+    "timestampMs": 420,
+    "confidence": 0.0281359
+  },
+  {
+    "text": " built",
+    "startMs": 720,
+    "endMs": 1630,
+    "timestampMs": 1020,
+    "confidence": 0.95674
+  },
+  {
+    "text": " a",
+    "startMs": 1630,
+    "endMs": 1810,
+    "timestampMs": 1540,
+    "confidence": 0.97204
+  },
+  {
+    "text": " SaaS!",
+    "startMs": 1810,
+    "endMs": 3120,
+    "timestampMs": 1960,
+    "confidence": 0.59292
+  },
+  {
+    "text": " Now",
+    "startMs": 3120,
+    "endMs": 3280,
+    "timestampMs": 3200,
+    "confidence": 0.620365
+  },
+  {
+    "text": " you",
+    "startMs": 3280,
+    "endMs": 3440,
+    "timestampMs": 3420,
+    "confidence": 0.965502
+  },
+  {
+    "text": " need",
+    "startMs": 3440,
+    "endMs": 3650,
+    "timestampMs": 3600,
+    "confidence": 0.995247
+  },
+  {
+    "text": " billing.",
+    "startMs": 3650,
+    "endMs": 4310,
+    "timestampMs": 3960,
+    "confidence": 0.988429
+  },
+  {
+    "text": " Plans,",
+    "startMs": 4310,
+    "endMs": 5070,
+    "timestampMs": 4680,
+    "confidence": 0.850111
+  },
+  {
+    "text": " trials,",
+    "startMs": 5070,
+    "endMs": 5800,
+    "timestampMs": 5680,
+    "confidence": 0.948972
+  },
+  {
+    "text": " webhooks,",
+    "startMs": 5800,
+    "endMs": 6980,
+    "timestampMs": 6280,
+    "confidence": 0.881568
+  },
+  {
+    "text": " taxes?",
+    "startMs": 6980,
+    "endMs": 8320,
+    "timestampMs": 7380,
+    "confidence": 0.974544
+  },
+  {
+    "text": " Or",
+    "startMs": 8320,
+    "endMs": 8440,
+    "timestampMs": 8740,
+    "confidence": 0.729373
+  },
+  {
+    "text": " just",
+    "startMs": 8440,
+    "endMs": 9310,
+    "timestampMs": 9360,
+    "confidence": 0.575953
+  },
+  {
+    "text": " ask",
+    "startMs": 9310,
+    "endMs": 9520,
+    "timestampMs": 9600,
+    "confidence": 0.955841
+  },
+  {
+    "text": " your",
+    "startMs": 9520,
+    "endMs": 9960,
+    "timestampMs": 9820,
+    "confidence": 0.998106
+  },
+  {
+    "text": " AI.",
+    "startMs": 9960,
+    "endMs": 10630,
+    "timestampMs": 10180,
+    "confidence": 0.769236
+  },
+  {
+    "text": " Create",
+    "startMs": 10630,
+    "endMs": 11020,
+    "timestampMs": 11040,
+    "confidence": 0.957135
+  },
+  {
+    "text": " a",
+    "startMs": 11020,
+    "endMs": 11110,
+    "timestampMs": 11200,
+    "confidence": 0.997132
+  },
+  {
+    "text": " pro",
+    "startMs": 11110,
+    "endMs": 11330,
+    "timestampMs": 11420,
+    "confidence": 0.499044
+  },
+  {
+    "text": " plan.",
+    "startMs": 11330,
+    "endMs": 11900,
+    "timestampMs": 11620,
+    "confidence": 0.835428
+  },
+  {
+    "text": " $29",
+    "startMs": 11900,
+    "endMs": 12470,
+    "timestampMs": 11940,
+    "confidence": 0.745813
+  },
+  {
+    "text": " a",
+    "startMs": 12470,
+    "endMs": 12550,
+    "timestampMs": 12760,
+    "confidence": 0.879281
+  },
+  {
+    "text": " month,",
+    "startMs": 12550,
+    "endMs": 13140,
+    "timestampMs": 13000,
+    "confidence": 0.99942
+  },
+  {
+    "text": " 14-day",
+    "startMs": 13140,
+    "endMs": 13930,
+    "timestampMs": 13640,
+    "confidence": 0.969505
+  },
+  {
+    "text": " trial,",
+    "startMs": 13930,
+    "endMs": 14560,
+    "timestampMs": 14260,
+    "confidence": 0.99226
+  },
+  {
+    "text": " and",
+    "startMs": 14560,
+    "endMs": 14830,
+    "timestampMs": 14700,
+    "confidence": 0.975346
+  },
+  {
+    "text": " send",
+    "startMs": 14830,
+    "endMs": 15140,
+    "timestampMs": 14840,
+    "confidence": 0.997524
+  },
+  {
+    "text": " webhooks",
+    "startMs": 15140,
+    "endMs": 15810,
+    "timestampMs": 15080,
+    "confidence": 0.767759
+  },
+  {
+    "text": " to",
+    "startMs": 15810,
+    "endMs": 16100,
+    "timestampMs": 15420,
+    "confidence": 0.995201
+  },
+  {
+    "text": " my",
+    "startMs": 16100,
+    "endMs": 16150,
+    "timestampMs": 15580,
+    "confidence": 0.994097
+  },
+  {
+    "text": " app.",
+    "startMs": 16150,
+    "endMs": 16720,
+    "timestampMs": 15860,
+    "confidence": 0.952111
+  },
+  {
+    "text": " Done!",
+    "startMs": 16720,
+    "endMs": 17720,
+    "timestampMs": 16960,
+    "confidence": 0.802362
+  },
+  {
+    "text": " Pockets",
+    "startMs": 17720,
+    "endMs": 18160,
+    "timestampMs": 17620,
+    "confidence": 0.35841
+  },
+  {
+    "text": " Flow",
+    "startMs": 18160,
+    "endMs": 18420,
+    "timestampMs": 18220,
+    "confidence": 0.540511
+  },
+  {
+    "text": " plugs",
+    "startMs": 18420,
+    "endMs": 18740,
+    "timestampMs": 18520,
+    "confidence": 0.960572
+  },
+  {
+    "text": " right",
+    "startMs": 18740,
+    "endMs": 19060,
+    "timestampMs": 18920,
+    "confidence": 0.992525
+  },
+  {
+    "text": " into",
+    "startMs": 19060,
+    "endMs": 19320,
+    "timestampMs": 19180,
+    "confidence": 0.977879
+  },
+  {
+    "text": " Clod,",
+    "startMs": 19320,
+    "endMs": 19710,
+    "timestampMs": 19460,
+    "confidence": 0.238823
+  },
+  {
+    "text": " Cursor,",
+    "startMs": 19710,
+    "endMs": 20240,
+    "timestampMs": 19980,
+    "confidence": 0.976411
+  },
+  {
+    "text": " or",
+    "startMs": 20240,
+    "endMs": 20520,
+    "timestampMs": 20420,
+    "confidence": 0.879888
+  },
+  {
+    "text": " Codex.",
+    "startMs": 20520,
+    "endMs": 21640,
+    "timestampMs": 20620,
+    "confidence": 0.952809
+  },
+  {
+    "text": " One",
+    "startMs": 21640,
+    "endMs": 21910,
+    "timestampMs": 21760,
+    "confidence": 0.726425
+  },
+  {
+    "text": " API",
+    "startMs": 21910,
+    "endMs": 22260,
+    "timestampMs": 22160,
+    "confidence": 0.992621
+  },
+  {
+    "text": " call",
+    "startMs": 22260,
+    "endMs": 22540,
+    "timestampMs": 22480,
+    "confidence": 0.986656
+  },
+  {
+    "text": " opens",
+    "startMs": 22540,
+    "endMs": 23040,
+    "timestampMs": 22820,
+    "confidence": 0.997413
+  },
+  {
+    "text": " Checkout.",
+    "startMs": 23040,
+    "endMs": 23980,
+    "timestampMs": 23140,
+    "confidence": 0.457747
+  },
+  {
+    "text": " Signed",
+    "startMs": 23980,
+    "endMs": 24350,
+    "timestampMs": 24020,
+    "confidence": 0.993405
+  },
+  {
+    "text": " webhooks",
+    "startMs": 24350,
+    "endMs": 24850,
+    "timestampMs": 24360,
+    "confidence": 0.946436
+  },
+  {
+    "text": " tell",
+    "startMs": 24850,
+    "endMs": 25100,
+    "timestampMs": 24760,
+    "confidence": 0.995421
+  },
+  {
+    "text": " your",
+    "startMs": 25100,
+    "endMs": 25400,
+    "timestampMs": 24920,
+    "confidence": 0.998102
+  },
+  {
+    "text": " app",
+    "startMs": 25400,
+    "endMs": 25540,
+    "timestampMs": 25160,
+    "confidence": 0.993403
+  },
+  {
+    "text": " when",
+    "startMs": 25540,
+    "endMs": 25820,
+    "timestampMs": 25300,
+    "confidence": 0.995923
+  },
+  {
+    "text": " to",
+    "startMs": 25820,
+    "endMs": 25910,
+    "timestampMs": 25480,
+    "confidence": 0.998925
+  },
+  {
+    "text": " grant",
+    "startMs": 25910,
+    "endMs": 26200,
+    "timestampMs": 25680,
+    "confidence": 0.984312
+  },
+  {
+    "text": " access.",
+    "startMs": 26200,
+    "endMs": 26860,
+    "timestampMs": 26300,
+    "confidence": 0.997221
+  },
+  {
+    "text": " Usage",
+    "startMs": 26860,
+    "endMs": 27140,
+    "timestampMs": 27100,
+    "confidence": 0.790634
+  },
+  {
+    "text": " credits",
+    "startMs": 27140,
+    "endMs": 27600,
+    "timestampMs": 27560,
+    "confidence": 0.934755
+  },
+  {
+    "text": " that",
+    "startMs": 27600,
+    "endMs": 27770,
+    "timestampMs": 27920,
+    "confidence": 0.993574
+  },
+  {
+    "text": " top",
+    "startMs": 27770,
+    "endMs": 27940,
+    "timestampMs": 28140,
+    "confidence": 0.969139
+  },
+  {
+    "text": " themselves",
+    "startMs": 27940,
+    "endMs": 28540,
+    "timestampMs": 28520,
+    "confidence": 0.988821
+  },
+  {
+    "text": " up.",
+    "startMs": 28560,
+    "endMs": 28920,
+    "timestampMs": 28980,
+    "confidence": 0.994158
+  },
+  {
+    "text": " A",
+    "startMs": 28920,
+    "endMs": 29130,
+    "timestampMs": 29580,
+    "confidence": 0.974553
+  },
+  {
+    "text": " billing",
+    "startMs": 29130,
+    "endMs": 29540,
+    "timestampMs": 29840,
+    "confidence": 0.988604
+  },
+  {
+    "text": " portal",
+    "startMs": 29540,
+    "endMs": 29990,
+    "timestampMs": 30120,
+    "confidence": 0.995547
+  },
+  {
+    "text": " for",
+    "startMs": 29990,
+    "endMs": 30220,
+    "timestampMs": 30340,
+    "confidence": 0.997935
+  },
+  {
+    "text": " your",
+    "startMs": 30220,
+    "endMs": 30520,
+    "timestampMs": 30560,
+    "confidence": 0.993938
+  },
+  {
+    "text": " customers.",
+    "startMs": 30520,
+    "endMs": 31540,
+    "timestampMs": 31100,
+    "confidence": 0.993991
+  },
+  {
+    "text": " And",
+    "startMs": 31540,
+    "endMs": 31730,
+    "timestampMs": 31900,
+    "confidence": 0.927659
+  },
+  {
+    "text": " global",
+    "startMs": 31730,
+    "endMs": 32240,
+    "timestampMs": 32220,
+    "confidence": 0.877846
+  },
+  {
+    "text": " tax",
+    "startMs": 32240,
+    "endMs": 32490,
+    "timestampMs": 32640,
+    "confidence": 0.99579
+  },
+  {
+    "text": " handled.",
+    "startMs": 32490,
+    "endMs": 33420,
+    "timestampMs": 33200,
+    "confidence": 0.895688
+  },
+  {
+    "text": " Billing",
+    "startMs": 33420,
+    "endMs": 33800,
+    "timestampMs": 33720,
+    "confidence": 0.475061
+  },
+  {
+    "text": " for",
+    "startMs": 33800,
+    "endMs": 34000,
+    "timestampMs": 34120,
+    "confidence": 0.989598
+  },
+  {
+    "text": " your",
+    "startMs": 34000,
+    "endMs": 34220,
+    "timestampMs": 34400,
+    "confidence": 0.954001
+  },
+  {
+    "text": " SaaS.",
+    "startMs": 34220,
+    "endMs": 35040,
+    "timestampMs": 34880,
+    "confidence": 0.90296
+  },
+  {
+    "text": " Minus",
+    "startMs": 35040,
+    "endMs": 35600,
+    "timestampMs": 35460,
+    "confidence": 0.969918
+  },
+  {
+    "text": " the",
+    "startMs": 35600,
+    "endMs": 35730,
+    "timestampMs": 35800,
+    "confidence": 0.992146
+  },
+  {
+    "text": " billing",
+    "startMs": 35730,
+    "endMs": 36550,
+    "timestampMs": 36000,
+    "confidence": 0.991773
+  },
+  {
+    "text": " team.",
+    "startMs": 36550,
+    "endMs": 36960,
+    "timestampMs": 36360,
+    "confidence": 0.999173
+  },
+  {
+    "text": " Start",
+    "startMs": 36960,
+    "endMs": 37290,
+    "timestampMs": 37220,
+    "confidence": 0.872333
+  },
+  {
+    "text": " building",
+    "startMs": 37290,
+    "endMs": 37820,
+    "timestampMs": 37580,
+    "confidence": 0.984605
+  },
+  {
+    "text": " at",
+    "startMs": 37820,
+    "endMs": 37950,
+    "timestampMs": 37880,
+    "confidence": 0.993131
+  },
+  {
+    "text": " pocketsflow.com.\"",
+    "startMs": 37950,
+    "endMs": 39080,
+    "timestampMs": 38220,
+    "confidence": 0.656248
+  },
+  {
+    "text": " (upbeat",
+    "startMs": 39100,
+    "endMs": 40040,
+    "timestampMs": 40080,
+    "confidence": 0.479574
+  },
+  {
+    "text": " music)",
+    "startMs": 40040,
+    "endMs": 40660,
+    "timestampMs": 40280,
+    "confidence": 0.874624
+  }
+]

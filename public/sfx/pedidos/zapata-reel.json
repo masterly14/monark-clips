@@ -1,0 +1,18 @@
+{
+  "pieza": "zapata-reel",
+  "usa": ["pop", "tick", "clic", "tecleo", "confirmacion", "alerta", "notificacion", "conteo", "swipe", "whoosh", "riser", "glitch", "golpe", "impacto", "destello", "logo"],
+  "sonidos": {
+    "maleta-ruedas": {
+      "categoria": "objeto",
+      "descripcion": "Ruedas pequeñas de una maleta de cabina rodando sobre piso de madera durante menos de un segundo: un rodar suave y continuo que arranca y se aleja, sin golpes ni voces.",
+      "uso": "El objeto motivo huésped con maleta: el huésped se va (o vuelve) con su maleta. Acompaña el desplazamiento del prop huesped o maleta por el cuadro.",
+      "ritmo": "Acento del motivo: suena cuando el huésped cruza el cuadro (máx. 2 veces por pieza). Ancla al inicio del movimiento.",
+      "prompt": "Small suitcase wheels rolling briefly across a wooden floor, smooth continuous soft roll that fades away, no bumps, no voices",
+      "duracion": 1.0,
+      "influencia": 0.55,
+      "volumen": 0.28,
+      "ancla": "inicio",
+      "variantes": 2
+    }
+  }
+}
